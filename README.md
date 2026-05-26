@@ -1,0 +1,1 @@
+# Informatika-10C-StockMaster2
